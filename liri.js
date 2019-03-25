@@ -141,33 +141,33 @@ fs.readFile('random.txt', "utf8", function(error, data){
         return writeCL('LIRI >>> an error occured: ' + error);
       }
 
-    var dataArr = data.split(",");
+    var cmdStr = data.split(",");
     
-    if (dataArr[0] === "spotify-this-song") 
+    if (cmdStr[0] === "spotify-this-song") 
     {
-      var songcheck = dataArr[1].trim().slice(1, -1);
+      var songcheck = cmdStr[1].trim().slice(1, -1);
       searchSpotify(songcheck);
     } 
-    else if (dataArr[0] === "concert-this") 
+    else if (cmdStr[0] === "concert-this") 
     { 
-      if (dataArr[1].charAt(1) === "'")
+      if (cmdStr[1].charAt(1) === "'")
       {
-      	var dLength = dataArr[1].length - 1;
-      	var data = dataArr[1].substring(2,dLength);
-      	console.log(data);
-      	searchBIT(data);
+      	var strLength = cmdStr[1].length - 1;
+      	var concertStr = cmdStr[1].substring(2,strLength);
+      	console.log(concertStr);
+      	searchBIT(concertStr);
       }
       else
       {
-	      var bandName = dataArr[1].trim();
+	      var bandName = cmdStr[1].trim();
 	      console.log(bandName);
 	      searchBIT(bandName);
 	  }
   	  
     } 
-    else if(dataArr[0] === "movie-this") 
+    else if(cmdStr[0] === "movie-this") 
     {
-      var movie_name = dataArr[1].trim().slice(1, -1);
+      var movie_name = cmdStr[1].trim().slice(1, -1);
       searchOMDB(movie_name);
     } 
     
