@@ -1,0 +1,1668 @@
+LIRI >>> Here are Spotify results related to song query "":
+_______________________________________________________________
+
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Song Title: The Sign
+Spotify Preview Link: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=4ae6b475e6954ae6a1d580dc8d224a13
+_______________________________________________________________
+
+LIRI >>> Here are Spotify results related to song query "Like A Virgin":
+_______________________________________________________________
+
+Song Title: Like a Virgin
+Artist: Madonna
+Spotify Preview Link: https://p.scdn.co/mp3-preview/089d0020923bf9df88e3507f7dad1cd154f6733e?cid=4ae6b475e6954ae6a1d580dc8d224a13
+_______________________________________________________________
+
+Album: Like a Virgin (Reissue)
+LIRI >>> Here are Spotify results related to song query "":
+_______________________________________________________________
+
+Song Title: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Spotify Preview Link: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=4ae6b475e6954ae6a1d580dc8d224a13
+_______________________________________________________________
+
+LIRI >>> Here are Spotify results related to song query "":
+_______________________________________________________________
+
+Song Title: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Spotify Preview Link: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=4ae6b475e6954ae6a1d580dc8d224a13
+_______________________________________________________________
+
+LIRI >>> Here are Spotify results related to song query "":
+_______________________________________________________________
+
+Song Title: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Spotify Preview Link: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=4ae6b475e6954ae6a1d580dc8d224a13
+_______________________________________________________________
+
+LIRI >>> Here are Spotify results related to song query "Like A Virgin":
+Song Title: Like a Virgin
+_______________________________________________________________
+
+Album: Like a Virgin (Reissue)
+Artist: Madonna
+Spotify Preview Link: https://p.scdn.co/mp3-preview/089d0020923bf9df88e3507f7dad1cd154f6733e?cid=4ae6b475e6954ae6a1d580dc8d224a13
+_______________________________________________________________
+
+
+_______________________________________________________________
+
+LIRI >>> Here are OMDB results related to "":
+_______________________________________________________________
+
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+_______________________________________________________________
+
+LIRI >>> Here are OMDB results related to "":
+_______________________________________________________________
+
+Release Year: 2009
+IMDB Rating: 7.8
+Title: Mr. Nobody
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+_______________________________________________________________
+
+LIRI >>> Here are OMDB results related to "Jurassic Park":
+_______________________________________________________________
+
+Title: Jurassic Park
+IMDB Rating: 8.1
+Release Year: 1993
+Rotten Tomatoes Rating: 91%
+Language: English, Spanish
+Country: USA
+Plot: During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.
+Actors: Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough
+LIRI >>> Here are events related to "Ariana Grande":
+_______________________________________________________________
+
+Event Name: 
+Venue: Capitol One Arena
+Venue Location: Washington, United States
+Event Date: 03/25/2019
+Event Website: https://www.bandsintown.com/e/100456844?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Wells Fargo Center
+Venue Location: Philadelphia, United States
+Event Website: https://www.bandsintown.com/e/100456850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Date: 03/26/2019
+_______________________________________________________________
+
+Event Name: 
+Venue: Quicken Loans Arena
+Venue Location: Cleveland, United States
+Event Date: 03/28/2019
+Event Website: https://www.bandsintown.com/e/100456852?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Mohegan Sun Arena
+Venue Location: Uncasville, United States
+Event Date: 03/30/2019
+Event Website: https://www.bandsintown.com/e/100456853?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Bell Centre
+Venue Location: Montréal, Canada
+Event Date: 04/01/2019
+Event Website: https://www.bandsintown.com/e/100456855?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Scotiabank Arena
+Venue Location: Toronto, Canada
+Event Date: 04/03/2019
+Event Website: https://www.bandsintown.com/e/100456861?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Little Caesars Arena
+Venue Location: Detroit, United States
+Event Date: 04/05/2019
+Event Website: https://www.bandsintown.com/e/100456863?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Coachella Valley Music and Arts Festival
+Venue Location: Indio, United States
+Event Date: 04/14/2019
+Event Website: https://www.bandsintown.com/e/100697635?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Coachella Valley Music and Arts Festival
+Venue Location: Indio, United States
+Event Date: 04/21/2019
+Event Website: https://www.bandsintown.com/e/100697641?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Rogers Place
+Venue Location: Edmonton, Canada
+Event Date: 04/25/2019
+Event Website: https://www.bandsintown.com/e/100456892?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Rogers Arena
+Venue Location: Vancouver, Canada
+Event Date: 04/27/2019
+Event Website: https://www.bandsintown.com/e/100456893?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Moda Center
+Venue Location: Portland, United States
+Event Date: 04/30/2019
+Event Website: https://www.bandsintown.com/e/100456896?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: SAP Center
+Venue Location: San Jose, United States
+Event Date: 05/02/2019
+Event Website: https://www.bandsintown.com/e/100456897?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Golden 1 Center
+Venue Location: Sacramento, United States
+Event Date: 05/03/2019
+Event Website: https://www.bandsintown.com/e/100456898?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: STAPLES Center
+Venue Location: Los Angeles, United States
+Event Date: 05/06/2019
+Event Website: https://www.bandsintown.com/e/100456900?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Staples Center
+Venue Location: Los Angeles, United States
+Event Date: 05/07/2019
+Event Website: https://www.bandsintown.com/e/100590333?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Name: 
+_______________________________________________________________
+
+Venue: The Forum
+Venue Location: Los Angeles, United States
+Event Date: 05/10/2019
+Event Website: https://www.bandsintown.com/e/100456903?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: T-Mobile Arena
+Venue Location: Las Vegas, United States
+Event Date: 05/11/2019
+Event Website: https://www.bandsintown.com/e/100696326?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Talking Stick Resort Arena
+Venue Location: Phoenix, United States
+Event Date: 05/14/2019
+Event Website: https://www.bandsintown.com/e/100456911?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: AT&T Center
+Venue Location: San Antonio, United States
+Event Date: 05/17/2019
+Event Website: https://www.bandsintown.com/e/100456913?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Toyota Center
+Venue Location: Houston, United States
+Event Date: 05/19/2019
+Event Website: https://www.bandsintown.com/e/100456917?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: American Airlines Center
+Venue Location: Dallas, United States
+Event Date: 05/21/2019
+Event Website: https://www.bandsintown.com/e/100456918?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Chesapeake Energy Arena
+Venue Location: Oklahoma City, United States
+Event Date: 05/23/2019
+Event Website: https://www.bandsintown.com/e/100456920?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Smoothie King Center
+Venue Location: New Orleans, United States
+Event Date: 05/25/2019
+Event Website: https://www.bandsintown.com/e/100456923?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Amalie Arena
+Venue Location: Tampa, United States
+Event Date: 05/28/2019
+Event Website: https://www.bandsintown.com/e/100456927?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Amway Center
+Venue Location: Orlando, United States
+Event Date: 05/29/2019
+Event Website: https://www.bandsintown.com/e/100456928?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: American Airlines Arena
+Venue Location: Miami, United States
+Event Date: 05/31/2019
+Event Website: https://www.bandsintown.com/e/100456937?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: American Airlines Arena
+Venue Location: Miami, United States
+Event Date: 06/01/2019
+Event Website: https://www.bandsintown.com/e/100590335?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: United Center
+Venue Location: Chicago, United States
+Event Date: 06/04/2019
+Event Website: https://www.bandsintown.com/e/100456864?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: United Center
+Venue Location: Chicago, United States
+Event Date: 06/05/2019
+Event Website: https://www.bandsintown.com/e/100590326?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Bridgestone Arena
+Venue Location: Nashville, United States
+Event Date: 06/07/2019
+Event Website: https://www.bandsintown.com/e/100456943?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Name: 
+_______________________________________________________________
+
+Venue: State Farm Arena
+Venue Location: Atlanta, United States
+Event Date: 06/08/2019
+Event Website: https://www.bandsintown.com/e/100456949?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Spectrum Center
+Venue Location: Charlotte, United States
+Event Date: 06/10/2019
+Event Website: https://www.bandsintown.com/e/100456951?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: PPG Paints Arena
+Venue Location: Pittsburgh, United States
+Event Date: 06/12/2019
+Event Website: https://www.bandsintown.com/e/100456957?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Barclays Center
+Venue Location: Brooklyn, United States
+Event Date: 06/14/2019
+Event Website: https://www.bandsintown.com/e/100456959?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Barclays Center
+Venue Location: Brooklyn, United States
+Event Date: 06/15/2019
+Event Website: https://www.bandsintown.com/e/100590340?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Madison Square Garden
+Venue Location: New York, United States
+Event Date: 06/18/2019
+Event Website: https://www.bandsintown.com/e/100457955?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Madison Square Garden
+Venue Location: New York, United States
+Event Date: 06/19/2019
+Event Website: https://www.bandsintown.com/e/100590344?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Capital One Arena
+Venue Location: Washington, United States
+Event Date: 06/21/2019
+Event Website: https://www.bandsintown.com/e/100590348?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Venue: TD Garden
+Venue Location: Boston, United States
+Event Name: 
+Event Date: 06/22/2019
+Event Website: https://www.bandsintown.com/e/100590355?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Wells Fargo Center
+Venue Location: Philadelphia, United States
+Event Date: 06/24/2019
+Event Website: https://www.bandsintown.com/e/100590370?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Scotiabank Arena
+Venue Location: Toronto, Canada
+Event Date: 06/26/2019
+Event Website: https://www.bandsintown.com/e/100590374?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis, United States
+Event Date: 06/29/2019
+Event Website: https://www.bandsintown.com/e/100456869?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: The Schottenstein Center
+Venue Location: Columbus, United States
+Event Date: 07/01/2019
+Event Website: https://www.bandsintown.com/e/100456868?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Fiserv Forum
+Venue Location: Milwaukee, United States
+Event Date: 07/05/2019
+Event Website: https://www.bandsintown.com/e/100456879?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Enterprise Center
+Venue Location: St. Louis, United States
+Event Date: 07/06/2019
+Event Website: https://www.bandsintown.com/e/100456877?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Xcel Energy Center
+Venue Location: St Paul, United States
+Event Date: 07/08/2019
+Event Website: https://www.bandsintown.com/e/100456882?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Pepsi Center
+Venue Location: Denver, United States
+Event Date: 07/11/2019
+Event Website: https://www.bandsintown.com/e/100456886?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City, United States
+Event Date: 07/13/2019
+Event Website: https://www.bandsintown.com/e/100456889?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Grant Park
+Venue Location: Chicago, United States
+Event Date: 08/01/2019
+Event Website: https://www.bandsintown.com/e/1014292459?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: The O2 Arena
+Venue Location: London, United Kingdom
+Event Date: 08/17/2019
+Event Website: https://www.bandsintown.com/e/100606496?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: The O2
+Venue Location: London, United Kingdom
+Event Date: 08/19/2019
+Event Website: https://www.bandsintown.com/e/100612815?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Name: 
+_______________________________________________________________
+
+Venue: The O2 Arena
+Venue Location: London, United Kingdom
+Event Date: 08/20/2019
+Event Website: https://www.bandsintown.com/e/100678053?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Ziggo Dome
+Venue Location: Amsterdam, Netherlands
+Event Date: 08/23/2019
+Event Website: https://www.bandsintown.com/e/100606499?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Ziggo Dome
+Venue Location: Amsterdam, Netherlands
+Event Date: 08/24/2019
+Event Website: https://www.bandsintown.com/e/100612818?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: AccorHotels Arena
+Venue Location: Paris, France
+Event Date: 08/27/2019
+Event Website: https://www.bandsintown.com/e/100606502?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: AccorHotels Arena
+Venue Location: Paris, France
+Event Date: 08/28/2019
+Event Website: https://www.bandsintown.com/e/100678068?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Sportpaleis Antwerpen
+Venue Location: Antwerpen, Belgium
+Event Date: 08/30/2019
+Event Website: https://www.bandsintown.com/e/100606508?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Lanxess Arena
+Venue Location: Köln, Germany
+Event Date: 09/01/2019
+Event Website: https://www.bandsintown.com/e/100606509?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Stadthalle
+Venue Location: Vienna, Austria
+Event Date: 09/03/2019
+Event Website: https://www.bandsintown.com/e/100606513?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Barclaycard Arena
+Venue Location: Hamburg, Germany
+Event Date: 09/05/2019
+Event Website: https://www.bandsintown.com/e/100606517?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: O2 arena
+Venue Location: Praha 9, Czech Republic
+Event Date: 09/08/2019
+Event Website: https://www.bandsintown.com/e/100606521?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Tauron Arena
+Venue Location: Kraków, Poland
+Event Date: 09/09/2019
+Event Website: https://www.bandsintown.com/e/100606523?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Ziggo Dome
+Venue Location: Amsterdam, Netherlands
+Event Date: 09/11/2019
+Event Website: https://www.bandsintown.com/e/100678092?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Arena Birmingham
+Venue Location: Birmingham, United Kingdom
+Event Date: 09/14/2019
+Event Website: https://www.bandsintown.com/e/100606530?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Arena Birmingham
+Venue Location: Birmingham, United Kingdom
+Event Website: https://www.bandsintown.com/e/100678102?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Date: 09/15/2019
+Event Name: 
+Venue: The SSE Hydro
+Venue Location: Glasgow, United Kingdom
+Event Date: 09/17/2019
+Event Website: https://www.bandsintown.com/e/100606533?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: FlyDSA Arena
+Venue Location: Sheffield, United Kingdom
+Event Date: 09/19/2019
+Event Website: https://www.bandsintown.com/e/100606536?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: 3Arena
+Venue Location: Dublin, Ireland
+Event Date: 09/22/2019
+Event Website: https://www.bandsintown.com/e/100606541?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: 3Arena
+Venue Location: Dublin, Ireland
+Event Date: 09/23/2019
+Event Website: https://www.bandsintown.com/e/100678128?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: Sweetener Hot Ticket Sweetener Meet & Greet - Standing VIP Area Sweetener Soundcheck - Standing VIP Area * Times included on ticket pages or confirmation emails will reflect Door or Show Times and may differ from the VIP package time. VIP Nation will contact you via email with full timings within 5 days of the event.
+Venue: 3Arena
+Venue Location: Dublin, Ireland
+Event Date: 09/25/2019
+Event Website: https://www.bandsintown.com/e/1013944391?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Barclaycard Arena
+Venue Location: Hamburg, Germany
+Event Date: 09/28/2019
+Event Website: https://www.bandsintown.com/e/100882309?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Royal Arena
+Venue Location: Copenhagen, Denmark
+Event Date: 10/01/2019
+Event Website: https://www.bandsintown.com/e/100606550?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Telenor Arena
+Venue Location: Oslo, Norway
+Event Date: 10/03/2019
+Event Website: https://www.bandsintown.com/e/100606553?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Hartwall Arena
+Venue Location: Hki, Finland
+Event Date: 10/05/2019
+Event Website: https://www.bandsintown.com/e/100606555?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Ericsson Globe
+Venue Location: Stockholm, Sweden
+Event Date: 10/07/2019
+Event Website: https://www.bandsintown.com/e/100606558?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Mercedes-Benz-Arena
+Venue Location: Berlin, Germany
+Event Date: 10/10/2019
+Event Website: https://www.bandsintown.com/e/100606566?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Name: 
+Venue: Hallenstadion
+Venue Location: Zürich, Switzerland
+Event Date: 10/13/2019
+Event Website: https://www.bandsintown.com/e/100606568?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+LIRI >>> Here are events related to "Pink":
+_______________________________________________________________
+
+Venue Location: Glendale, United States
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Event URL: https://www.bandsintown.com/e/1009602549?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Date: 03/30/2019
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Denver, United States
+Event Date: 04/01/2019
+Event URL: https://www.bandsintown.com/e/1009602554?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Salt Lake City, United States
+Event Date: 04/03/2019
+Event URL: https://www.bandsintown.com/e/1009602552?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Vancouver, Canada
+Event Date: 04/05/2019
+Event URL: https://www.bandsintown.com/e/1009602538?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Pepsi Live at Rogers Arena
+Venue Location: Vancouver, Canada
+Event Date: 04/06/2019
+Event URL: https://www.bandsintown.com/e/1009719643?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Portland, United States
+Event Date: 04/08/2019
+Event URL: https://www.bandsintown.com/e/1009602557?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Sacramento, United States
+Event Date: 04/10/2019
+Event URL: https://www.bandsintown.com/e/1009602536?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Las Vegas, United States
+Event Date: 04/12/2019
+Event URL: https://www.bandsintown.com/e/1009602551?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Honda Center
+Venue Location: Anaheim, United States
+Event Date: 04/13/2019
+Event URL: https://www.bandsintown.com/e/100717666?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Staples Center
+Venue Location: Los Angeles, United States
+Event Date: 04/15/2019
+Event URL: https://www.bandsintown.com/e/100717674?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: San Jose, United States
+Event Date: 04/17/2019
+Event URL: https://www.bandsintown.com/e/1009602550?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Los Angeles, United States
+Event Date: 04/19/2019
+Event URL: https://www.bandsintown.com/e/1009602563?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Little Caesars Arena 
+Venue Location: Detroit, United States
+Event Date: 04/26/2019
+Event URL: https://www.bandsintown.com/e/1009572837?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Venue Location: Detroit, United States
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Event Date: 04/27/2019
+Event URL: https://www.bandsintown.com/e/1009602545?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Indianapolis, United States
+Event Date: 04/30/2019
+Event URL: https://www.bandsintown.com/e/1009602556?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Milwaukee, United States
+Event Date: 05/02/2019
+Event URL: https://www.bandsintown.com/e/1009602562?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Fargo, United States
+Event Date: 05/04/2019
+Event URL: https://www.bandsintown.com/e/1009602566?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: St Paul, United States
+Event Date: 05/05/2019
+Event URL: https://www.bandsintown.com/e/1009602546?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Omaha, United States
+Event Date: 05/07/2019
+Event URL: https://www.bandsintown.com/e/1009602568?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Lexington, United States
+Event Date: 05/09/2019
+Event URL: https://www.bandsintown.com/e/1009602544?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Columbus, United States
+Event Date: 05/11/2019
+Event URL: https://www.bandsintown.com/e/1009602565?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Toronto, Canada
+Event Date: 05/13/2019
+Event URL: https://www.bandsintown.com/e/1009602540?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Scotiabank Arena
+Venue Location: Toronto, Canada
+Event Date: 05/14/2019
+Event URL: https://www.bandsintown.com/e/1009719644?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Bell Centre 
+Venue Location: Montreal, Canada
+Event Date: 05/17/2019
+Event URL: https://www.bandsintown.com/e/1009572850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Montreal, Canada
+Event Date: 05/18/2019
+Event URL: https://www.bandsintown.com/e/1009602558?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: New York, United States
+Event Date: 05/21/2019
+Event URL: https://www.bandsintown.com/e/1009602564?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Venue Location: New York, United States
+_______________________________________________________________
+
+Event Date: 05/22/2019
+Event Venue: Madison Square Garden
+Event URL: https://www.bandsintown.com/e/1009719645?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Venue: Johan Cruijff Stadium
+_______________________________________________________________
+
+Venue Location: Amsterdam, Netherlands
+Event URL: https://www.bandsintown.com/e/100425537?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Date: 06/16/2019
+_______________________________________________________________
+
+Event Venue: RDS
+Venue Location: Dublin, Ireland
+Event Date: 06/18/2019
+Event URL: https://www.bandsintown.com/e/100425551?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Principality Stadium
+Venue Location: Cardiff, United Kingdom
+Event Date: 06/20/2019
+Event URL: https://www.bandsintown.com/e/100425553?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Hampden Park
+Venue Location: Glasgow, United Kingdom
+Event Date: 06/22/2019
+Event URL: https://www.bandsintown.com/e/100425556?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Hampden Park
+Venue Location: Glasgow, United Kingdom
+Event Date: 06/23/2019
+Event URL: https://www.bandsintown.com/e/100440642?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Anfield Stadium
+Venue Location: Liverpool, United Kingdom
+Event Date: 06/25/2019
+Event URL: https://www.bandsintown.com/e/100425559?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Rock Werchter Festival 
+Venue Location: Werchter, Belgium
+Event Date: 06/27/2019
+Event URL: https://www.bandsintown.com/e/100425577?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Wembley Stadium
+Venue Location: London, United Kingdom
+Event Date: 06/29/2019
+Event URL: https://www.bandsintown.com/e/100425582?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Wembley Stadium
+Venue Location: London, United Kingdom
+Event Date: 06/30/2019
+Event URL: https://www.bandsintown.com/e/100425585?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: La Defense Arena
+Venue Location: Paris, France
+Event Date: 07/03/2019
+Event URL: https://www.bandsintown.com/e/100425588?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Rhein Energie Stadion
+Venue Location: Cologne, Germany
+Event Date: 07/05/2019
+Event URL: https://www.bandsintown.com/e/100425592?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Rhein Energie Stadion
+Venue Location: Cologne, Germany
+Event Date: 07/06/2019
+Event URL: https://www.bandsintown.com/e/100439921?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Volksparkstadion
+Venue Location: Hamburg, Germany
+Event Date: 07/08/2019
+Event URL: https://www.bandsintown.com/e/100425595?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Venue Location: Stuttgart, Germany
+Event Venue: Mercedes-Benz Arena
+Event Date: 07/10/2019
+Event URL: https://www.bandsintown.com/e/100425596?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: HDI Arena
+Venue Location: Hannover, Germany
+Event Date: 07/12/2019
+Event URL: https://www.bandsintown.com/e/100425598?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Olympiastadion Berlin
+Venue Location: Berlin, Germany
+Event Date: 07/14/2019
+Event URL: https://www.bandsintown.com/e/100425599?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: PGE Narodowy Stadium
+Venue Location: Warsaw, Poland
+Event Date: 07/20/2019
+Event URL: https://www.bandsintown.com/e/100425603?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Commerzbank Arena
+Venue Location: Frankfurt, Germany
+Event Date: 07/22/2019
+Event URL: https://www.bandsintown.com/e/100425607?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Ernst Happel Stadium
+Venue Location: Wien, Austria
+Event Date: 07/24/2019
+Event URL: https://www.bandsintown.com/e/100425611?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Olympiastadion Munchen
+Venue Location: München, Germany
+Event Date: 07/26/2019
+Event URL: https://www.bandsintown.com/e/100425613?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Olympiastadion Munchen
+Venue Location: München, Germany
+Event Date: 07/27/2019
+Event URL: https://www.bandsintown.com/e/1012206296?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Letzigrund Stadium
+Venue Location: Zürich, Switzerland
+Event Date: 07/30/2019
+Event URL: https://www.bandsintown.com/e/100425616?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Tele2 Arena
+Venue Location: Stockholm, Sweden
+Event Date: 08/03/2019
+Event URL: https://www.bandsintown.com/e/100425617?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Telenor Arena
+Venue Location: Oslo, Norway
+Event Date: 08/05/2019
+Event URL: https://www.bandsintown.com/e/100436533?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Stadium Casa Arena
+Venue Location: Horsens, Denmark
+Event Date: 08/07/2019
+Event URL: https://www.bandsintown.com/e/100436540?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: VELTINS-Arena
+Venue Location: Ge, Germany
+Event Date: 08/09/2019
+Event URL: https://www.bandsintown.com/e/100812936?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Malieveld Pavillion
+Venue Location: Den Haag, Netherlands
+Event Date: 08/11/2019
+Event URL: https://www.bandsintown.com/e/100812942?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Rock in Rio
+Venue Location: Rio De Janeiro, Brazil
+Event Date: 10/05/2019
+Event URL: https://www.bandsintown.com/e/100446813?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+LIRI >>> Here are events related to "Pink":
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Glendale, United States
+Event Date: 03/30/2019
+Event URL: https://www.bandsintown.com/e/1009602549?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Denver, United States
+Event Date: 04/01/2019
+Event URL: https://www.bandsintown.com/e/1009602554?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Venue Location: Salt Lake City, United States
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Event URL: https://www.bandsintown.com/e/1009602552?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Date: 04/03/2019
+_______________________________________________________________
+
+Venue Location: Vancouver, Canada
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Event Date: 04/05/2019
+Event URL: https://www.bandsintown.com/e/1009602538?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Pepsi Live at Rogers Arena
+Venue Location: Vancouver, Canada
+Event Date: 04/06/2019
+Event URL: https://www.bandsintown.com/e/1009719643?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Portland, United States
+Event Date: 04/08/2019
+Event URL: https://www.bandsintown.com/e/1009602557?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Sacramento, United States
+Event Date: 04/10/2019
+Event URL: https://www.bandsintown.com/e/1009602536?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Las Vegas, United States
+Event Date: 04/12/2019
+Event URL: https://www.bandsintown.com/e/1009602551?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Honda Center
+Venue Location: Anaheim, United States
+Event Date: 04/13/2019
+Event URL: https://www.bandsintown.com/e/100717666?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Staples Center
+Venue Location: Los Angeles, United States
+Event Date: 04/15/2019
+Event URL: https://www.bandsintown.com/e/100717674?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: San Jose, United States
+Event Date: 04/17/2019
+Event URL: https://www.bandsintown.com/e/1009602550?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Los Angeles, United States
+Event URL: https://www.bandsintown.com/e/1009602563?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Venue: Little Caesars Arena 
+_______________________________________________________________
+
+Event Date: 04/19/2019
+Venue Location: Detroit, United States
+Event Date: 04/26/2019
+Event URL: https://www.bandsintown.com/e/1009572837?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Detroit, United States
+Event Date: 04/27/2019
+Event URL: https://www.bandsintown.com/e/1009602545?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Indianapolis, United States
+Event Date: 04/30/2019
+Event URL: https://www.bandsintown.com/e/1009602556?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Milwaukee, United States
+Event Date: 05/02/2019
+Event URL: https://www.bandsintown.com/e/1009602562?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Fargo, United States
+Event Date: 05/04/2019
+Event URL: https://www.bandsintown.com/e/1009602566?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: St Paul, United States
+Event Date: 05/05/2019
+Event URL: https://www.bandsintown.com/e/1009602546?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Omaha, United States
+Event Date: 05/07/2019
+Event URL: https://www.bandsintown.com/e/1009602568?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Lexington, United States
+Event Date: 05/09/2019
+Event URL: https://www.bandsintown.com/e/1009602544?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Columbus, United States
+Event Date: 05/11/2019
+Event URL: https://www.bandsintown.com/e/1009602565?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Toronto, Canada
+Event Date: 05/13/2019
+Event URL: https://www.bandsintown.com/e/1009602540?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Scotiabank Arena
+Venue Location: Toronto, Canada
+Event Date: 05/14/2019
+Event URL: https://www.bandsintown.com/e/1009719644?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Bell Centre 
+Venue Location: Montreal, Canada
+Event Date: 05/17/2019
+Event URL: https://www.bandsintown.com/e/1009572850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Montreal, Canada
+Event Date: 05/18/2019
+Event URL: https://www.bandsintown.com/e/1009602558?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+_______________________________________________________________
+
+Venue Location: New York, United States
+Event URL: https://www.bandsintown.com/e/1009602564?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Date: 05/21/2019
+Event Venue: Madison Square Garden
+Venue Location: New York, United States
+Event Date: 05/22/2019
+Event URL: https://www.bandsintown.com/e/1009719645?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Johan Cruijff Stadium
+Venue Location: Amsterdam, Netherlands
+Event Date: 06/16/2019
+Event URL: https://www.bandsintown.com/e/100425537?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: RDS
+Venue Location: Dublin, Ireland
+Event Date: 06/18/2019
+Event URL: https://www.bandsintown.com/e/100425551?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Principality Stadium
+Venue Location: Cardiff, United Kingdom
+Event Date: 06/20/2019
+Event URL: https://www.bandsintown.com/e/100425553?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Hampden Park
+Venue Location: Glasgow, United Kingdom
+Event Date: 06/22/2019
+Event URL: https://www.bandsintown.com/e/100425556?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Hampden Park
+Venue Location: Glasgow, United Kingdom
+Event Date: 06/23/2019
+Event URL: https://www.bandsintown.com/e/100440642?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Anfield Stadium
+Venue Location: Liverpool, United Kingdom
+Event Date: 06/25/2019
+Event URL: https://www.bandsintown.com/e/100425559?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Rock Werchter Festival 
+Venue Location: Werchter, Belgium
+Event Date: 06/27/2019
+Event URL: https://www.bandsintown.com/e/100425577?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Wembley Stadium
+Event Date: 06/29/2019
+Event URL: https://www.bandsintown.com/e/100425582?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Wembley Stadium
+Venue Location: London, United Kingdom
+Venue Location: London, United Kingdom
+Event Date: 06/30/2019
+Event URL: https://www.bandsintown.com/e/100425585?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: La Defense Arena
+Venue Location: Paris, France
+Event Date: 07/03/2019
+Event URL: https://www.bandsintown.com/e/100425588?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Venue: Rhein Energie Stadion
+_______________________________________________________________
+
+Venue Location: Cologne, Germany
+Event Date: 07/05/2019
+Event URL: https://www.bandsintown.com/e/100425592?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Venue Location: Cologne, Germany
+Event Venue: Rhein Energie Stadion
+_______________________________________________________________
+
+Event URL: https://www.bandsintown.com/e/100439921?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Venue: Volksparkstadion
+Venue Location: Hamburg, Germany
+Event Date: 07/08/2019
+_______________________________________________________________
+
+Event URL: https://www.bandsintown.com/e/100425595?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Venue Location: Stuttgart, Germany
+Event Venue: Mercedes-Benz Arena
+Event Date: 07/10/2019
+_______________________________________________________________
+
+_______________________________________________________________
+
+Event Venue: HDI Arena
+Venue Location: Hannover, Germany
+Event Date: 07/06/2019
+Event URL: https://www.bandsintown.com/e/100425596?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event URL: https://www.bandsintown.com/e/100425598?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Date: 07/12/2019
+_______________________________________________________________
+
+Event Venue: Olympiastadion Berlin
+Venue Location: Berlin, Germany
+Event Date: 07/14/2019
+_______________________________________________________________
+
+Event Venue: PGE Narodowy Stadium
+Event URL: https://www.bandsintown.com/e/100425599?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event URL: https://www.bandsintown.com/e/100425603?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Date: 07/20/2019
+_______________________________________________________________
+
+Event Venue: Commerzbank Arena
+Venue Location: Frankfurt, Germany
+Event Date: 07/22/2019
+Event URL: https://www.bandsintown.com/e/100425607?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Venue Location: Warsaw, Poland
+_______________________________________________________________
+
+Venue Location: Wien, Austria
+Event Venue: Ernst Happel Stadium
+Event Date: 07/24/2019
+Event URL: https://www.bandsintown.com/e/100425611?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Venue Location: München, Germany
+Event Venue: Olympiastadion Munchen
+Event Date: 07/26/2019
+Event URL: https://www.bandsintown.com/e/100425613?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Olympiastadion Munchen
+Venue Location: München, Germany
+Event Date: 07/27/2019
+Event URL: https://www.bandsintown.com/e/1012206296?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Letzigrund Stadium
+Venue Location: Zürich, Switzerland
+Event Date: 07/30/2019
+Event URL: https://www.bandsintown.com/e/100425616?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Venue: Tele2 Arena
+_______________________________________________________________
+
+Venue Location: Stockholm, Sweden
+Event Date: 08/03/2019
+Event URL: https://www.bandsintown.com/e/100425617?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Venue Location: Oslo, Norway
+Event Date: 08/05/2019
+Event URL: https://www.bandsintown.com/e/100436533?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Venue: Telenor Arena
+_______________________________________________________________
+
+Event Venue: Stadium Casa Arena
+Venue Location: Horsens, Denmark
+Event Date: 08/07/2019
+Event URL: https://www.bandsintown.com/e/100436540?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Date: 08/09/2019
+Event Venue: VELTINS-Arena
+Event URL: https://www.bandsintown.com/e/100812936?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Venue Location: Den Haag, Netherlands
+Event Venue: Malieveld Pavillion
+Venue Location: Ge, Germany
+Event URL: https://www.bandsintown.com/e/100812942?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Date: 08/11/2019
+_______________________________________________________________
+
+Event Venue: Rock in Rio
+Venue Location: Rio De Janeiro, Brazil
+Event Date: 10/05/2019
+Event URL: https://www.bandsintown.com/e/100446813?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+LIRI >>> Here are events related to "Pink":
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Glendale, United States
+Event Date: 03/30/2019
+Event URL: https://www.bandsintown.com/e/1009602549?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Venue Location: Denver, United States
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+_______________________________________________________________
+
+Event URL: https://www.bandsintown.com/e/1009602554?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Date: 04/01/2019
+_______________________________________________________________
+
+Venue Location: Salt Lake City, United States
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Event URL: https://www.bandsintown.com/e/1009602552?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Vancouver, Canada
+Event Date: 04/05/2019
+Event Date: 04/03/2019
+Event URL: https://www.bandsintown.com/e/1009602538?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Pepsi Live at Rogers Arena
+Venue Location: Vancouver, Canada
+Event Date: 04/06/2019
+_______________________________________________________________
+
+Event URL: https://www.bandsintown.com/e/1009719643?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Portland, United States
+Event Date: 04/08/2019
+Event URL: https://www.bandsintown.com/e/1009602557?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Venue Location: Sacramento, United States
+Event Date: 04/10/2019
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Event URL: https://www.bandsintown.com/e/1009602536?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Las Vegas, United States
+Event Date: 04/12/2019
+Event URL: https://www.bandsintown.com/e/1009602551?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Date: 04/13/2019
+Venue Location: Anaheim, United States
+Event URL: https://www.bandsintown.com/e/100717666?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Honda Center
+Event Venue: Staples Center
+Venue Location: Los Angeles, United States
+Event Date: 04/15/2019
+Event URL: https://www.bandsintown.com/e/100717674?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: San Jose, United States
+Event URL: https://www.bandsintown.com/e/1009602550?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Event Date: 04/17/2019
+Venue Location: Los Angeles, United States
+Event Date: 04/19/2019
+_______________________________________________________________
+
+Event Venue: Little Caesars Arena 
+Venue Location: Detroit, United States
+Event URL: https://www.bandsintown.com/e/1009602563?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event URL: https://www.bandsintown.com/e/1009572837?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Event Date: 04/27/2019
+Venue Location: Detroit, United States
+Event URL: https://www.bandsintown.com/e/1009602545?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Indianapolis, United States
+Event Date: 04/30/2019
+Event Date: 04/26/2019
+Event URL: https://www.bandsintown.com/e/1009602556?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+_______________________________________________________________
+
+Event Date: 05/02/2019
+Event URL: https://www.bandsintown.com/e/1009602562?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Fargo, United States
+Event Date: 05/04/2019
+Event URL: https://www.bandsintown.com/e/1009602566?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: St Paul, United States
+Venue Location: Milwaukee, United States
+Event Date: 05/05/2019
+Event URL: https://www.bandsintown.com/e/1009602546?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Event Date: 05/07/2019
+Venue Location: Omaha, United States
+Event URL: https://www.bandsintown.com/e/1009602568?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Lexington, United States
+Event Date: 05/09/2019
+Event URL: https://www.bandsintown.com/e/1009602544?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Columbus, United States
+Event Date: 05/11/2019
+Event URL: https://www.bandsintown.com/e/1009602565?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Event Date: 05/13/2019
+Venue Location: Toronto, Canada
+Event URL: https://www.bandsintown.com/e/1009602540?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Scotiabank Arena
+Venue Location: Toronto, Canada
+Event Date: 05/14/2019
+Event URL: https://www.bandsintown.com/e/1009719644?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Venue Location: Montreal, Canada
+Event Date: 05/17/2019
+Event Venue: Bell Centre 
+Event URL: https://www.bandsintown.com/e/1009572850?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Montreal, Canada
+Event Date: 05/18/2019
+Event URL: https://www.bandsintown.com/e/1009602558?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Venue Location: New York, United States
+Event Date: 05/21/2019
+Event Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Event URL: https://www.bandsintown.com/e/1009602564?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Venue: Madison Square Garden
+Venue Location: New York, United States
+_______________________________________________________________
+
+Event URL: https://www.bandsintown.com/e/1009719645?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Date: 05/22/2019
+Event Venue: Johan Cruijff Stadium
+Venue Location: Amsterdam, Netherlands
+Event Date: 06/16/2019
+Event URL: https://www.bandsintown.com/e/100425537?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: RDS
+Venue Location: Dublin, Ireland
+Event Date: 06/18/2019
+Event URL: https://www.bandsintown.com/e/100425551?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Principality Stadium
+Venue Location: Cardiff, United Kingdom
+Event Date: 06/20/2019
+Event URL: https://www.bandsintown.com/e/100425553?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Hampden Park
+Venue Location: Glasgow, United Kingdom
+Event Date: 06/22/2019
+Event URL: https://www.bandsintown.com/e/100425556?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Hampden Park
+Venue Location: Glasgow, United Kingdom
+Event Date: 06/23/2019
+Event URL: https://www.bandsintown.com/e/100440642?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Anfield Stadium
+Venue Location: Liverpool, United Kingdom
+Event Date: 06/25/2019
+Event URL: https://www.bandsintown.com/e/100425559?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Rock Werchter Festival 
+Venue Location: Werchter, Belgium
+Event Date: 06/27/2019
+Event URL: https://www.bandsintown.com/e/100425577?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Wembley Stadium
+Venue Location: London, United Kingdom
+Event Date: 06/29/2019
+Event URL: https://www.bandsintown.com/e/100425582?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Wembley Stadium
+Venue Location: London, United Kingdom
+Event Date: 06/30/2019
+Event URL: https://www.bandsintown.com/e/100425585?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: La Defense Arena
+Venue Location: Paris, France
+Event Date: 07/03/2019
+Event URL: https://www.bandsintown.com/e/100425588?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Venue: Rhein Energie Stadion
+_______________________________________________________________
+
+Venue Location: Cologne, Germany
+Event URL: https://www.bandsintown.com/e/100425592?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Date: 07/05/2019
+_______________________________________________________________
+
+Event Venue: Rhein Energie Stadion
+Venue Location: Cologne, Germany
+Event Date: 07/06/2019
+Event URL: https://www.bandsintown.com/e/100439921?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Volksparkstadion
+Venue Location: Hamburg, Germany
+Event Date: 07/08/2019
+Event URL: https://www.bandsintown.com/e/100425595?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Mercedes-Benz Arena
+Venue Location: Stuttgart, Germany
+Event Date: 07/10/2019
+Event URL: https://www.bandsintown.com/e/100425596?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: HDI Arena
+Venue Location: Hannover, Germany
+Event Date: 07/12/2019
+Event URL: https://www.bandsintown.com/e/100425598?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Olympiastadion Berlin
+Venue Location: Berlin, Germany
+Event Date: 07/14/2019
+Event URL: https://www.bandsintown.com/e/100425599?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: PGE Narodowy Stadium
+Venue Location: Warsaw, Poland
+Event Date: 07/20/2019
+Event URL: https://www.bandsintown.com/e/100425603?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Commerzbank Arena
+Venue Location: Frankfurt, Germany
+Event Date: 07/22/2019
+Event URL: https://www.bandsintown.com/e/100425607?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Ernst Happel Stadium
+Venue Location: Wien, Austria
+Event Date: 07/24/2019
+Event URL: https://www.bandsintown.com/e/100425611?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Olympiastadion Munchen
+Event Date: 07/26/2019
+Venue Location: München, Germany
+Event URL: https://www.bandsintown.com/e/100425613?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Olympiastadion Munchen
+Venue Location: München, Germany
+Event Date: 07/27/2019
+Event URL: https://www.bandsintown.com/e/1012206296?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Letzigrund Stadium
+Venue Location: Zürich, Switzerland
+Event Date: 07/30/2019
+Event URL: https://www.bandsintown.com/e/100425616?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Tele2 Arena
+Venue Location: Stockholm, Sweden
+Event Date: 08/03/2019
+Event URL: https://www.bandsintown.com/e/100425617?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: Telenor Arena
+Venue Location: Oslo, Norway
+Event Date: 08/05/2019
+Event URL: https://www.bandsintown.com/e/100436533?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Venue Location: Horsens, Denmark
+Event Venue: Stadium Casa Arena
+Event Date: 08/07/2019
+Event URL: https://www.bandsintown.com/e/100436540?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+_______________________________________________________________
+
+Event Venue: VELTINS-Arena
+Venue Location: Ge, Germany
+Event Date: 08/09/2019
+Event URL: https://www.bandsintown.com/e/100812936?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Venue: Malieveld Pavillion
+_______________________________________________________________
+
+Venue Location: Den Haag, Netherlands
+Event URL: https://www.bandsintown.com/e/100812942?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Event Date: 08/11/2019
+_______________________________________________________________
+
+Event Venue: Rock in Rio
+Venue Location: Rio De Janeiro, Brazil
+Event Date: 10/05/2019
+Event URL: https://www.bandsintown.com/e/100446813?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+LIRI >>> Here are Spotify results related to song query "I Want it That Way":
+_______________________________________________________________
+
+Song Title: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Spotify Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=4ae6b475e6954ae6a1d580dc8d224a13
+_______________________________________________________________
+
+LIRI >>> Here are Spotify results related to song query "I Want it That Way":
+_______________________________________________________________
+
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Album: The Hits--Chapter One
+Spotify Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=4ae6b475e6954ae6a1d580dc8d224a13
+_______________________________________________________________
+
+
+_______________________________________________________________
+
+LIRI >>> Here are OMDB results related to "Jurassic World":
+_______________________________________________________________
+
+Title: Jurassic World
+Release Year: 2015
+IMDB Rating: 7.0
+Rotten Tomatoes Rating: 72%
+Country: USA
+Language: English
+Plot: A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, the Indominus Rex, which escapes containment and goes on a killing spree.
+Actors: Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio

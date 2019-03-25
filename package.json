@@ -1,0 +1,28 @@
+{
+  "name": "newLIRI",
+  "version": "1.0.0",
+  "description": "An interface for Language Interpretation and Recognition. Powered by jetsetEngine v.5.14 :D",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^7.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetsetPanda/liri-node-app-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jetsetPanda/liri-node-app-/issues"
+  },
+  "homepage": "https://github.com/jetsetPanda/liri-node-app-#readme"
+}
